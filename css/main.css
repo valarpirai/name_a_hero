@@ -1,0 +1,10 @@
+body {
+    font-family: "Avenir Next W01", "Avenir Next", Helvetica, sans-serif;
+}
+.main-bg {
+    background-color: #202020;
+    color: white;
+}
+.logo {
+    width: 200px;
+}
